@@ -1,0 +1,15 @@
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\bin\Debug\net6.0\gb2022.exe
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\bin\Debug\net6.0\gb2022.deps.json
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\bin\Debug\net6.0\gb2022.runtimeconfig.json
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\bin\Debug\net6.0\gb2022.dll
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\bin\Debug\net6.0\gb2022.pdb
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.csproj.AssemblyReference.cache
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.AssemblyInfoInputs.cache
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.AssemblyInfo.cs
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.csproj.CoreCompileInputs.cache
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.dll
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\refint\gb2022.dll
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.pdb
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\gb2022.genruntimeconfig.cache
+C:\Users\Dima\OneDrive\Рабочий стол\gb2022\obj\Debug\net6.0\ref\gb2022.dll
